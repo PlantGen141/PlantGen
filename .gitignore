@@ -1,0 +1,9 @@
+\\app\\bin\\
+\\app\\build\\
+*.class
+.gradle\\
+out\\
+*.json
+
+/app/build/
+.gradle/
