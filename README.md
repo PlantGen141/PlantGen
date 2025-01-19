@@ -5,6 +5,7 @@
 - SLMSAA010
 
 ## Description
+This project uses statistical sampling to generate realistic ecosystem biome.
 The code uses pink noise sampling to generate the desired number of points. These points represent possible plant placements. The viability at each point is then calculated for each plant, and a roulette wheel determines whether not a plant is placed (including what plant it is). These are stored in the Ecosystem. The attributes of the plant are calculated and the abiotic data of the ecosystem is updated for each plant placement.
 
 ## Visuals Explanation
